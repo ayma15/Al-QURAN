@@ -11,7 +11,7 @@ python-multipart==0.0.6
 aiofiles==23.2.1
 Pillow==10.1.0
 reportlab==4.0.7
-ebooklib==0.18.1
+ebooklib==0.18
 meilisearch==0.28.0
 apscheduler==3.10.4
 bcrypt==4.1.1
